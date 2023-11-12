@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\bin\Debug\net6.0\BirthdayCake.exe
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\bin\Debug\net6.0\BirthdayCake.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\bin\Debug\net6.0\BirthdayCake.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\bin\Debug\net6.0\BirthdayCake.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\bin\Debug\net6.0\BirthdayCake.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\refint\BirthdayCake.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\BirthdayCake.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\BirthdayCake\obj\Debug\net6.0\ref\BirthdayCake.dll

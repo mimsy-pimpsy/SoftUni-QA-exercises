@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\bin\Debug\net6.0\t01.demo.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\bin\Debug\net6.0\t01.demo.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\bin\Debug\net6.0\t01.demo.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\bin\Debug\net6.0\t01.demo.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\bin\Debug\net6.0\t01.demo.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\refint\t01.demo.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\t01.demo.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\t01.demo\obj\Debug\net6.0\ref\t01.demo.dll

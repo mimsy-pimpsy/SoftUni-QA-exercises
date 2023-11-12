@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\bin\Debug\net6.0\Letter Combinations.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\bin\Debug\net6.0\Letter Combinations.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\bin\Debug\net6.0\Letter Combinations.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\bin\Debug\net6.0\Letter Combinations.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\bin\Debug\net6.0\Letter Combinations.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\refint\Letter Combinations.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\Letter Combinations.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Letter Combinations\obj\Debug\net6.0\ref\Letter Combinations.dll

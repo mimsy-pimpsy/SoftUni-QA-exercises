@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\bin\Debug\net6.0\Happy Numbers.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\bin\Debug\net6.0\Happy Numbers.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\bin\Debug\net6.0\Happy Numbers.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\bin\Debug\net6.0\Happy Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\bin\Debug\net6.0\Happy Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\refint\Happy Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\Happy Numbers.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Happy Numbers\obj\Debug\net6.0\ref\Happy Numbers.dll

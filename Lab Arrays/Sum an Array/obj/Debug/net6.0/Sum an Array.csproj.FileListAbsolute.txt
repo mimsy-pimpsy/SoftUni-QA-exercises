@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.exe
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.deps.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\refint\Sum an Array.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Sum an Array\obj\Debug\net6.0\ref\Sum an Array.dll

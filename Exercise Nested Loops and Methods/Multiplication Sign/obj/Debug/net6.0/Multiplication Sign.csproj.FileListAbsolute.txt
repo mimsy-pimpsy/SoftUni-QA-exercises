@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\refint\Multiplication Sign.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Multiplication Sign\obj\Debug\net6.0\ref\Multiplication Sign.dll

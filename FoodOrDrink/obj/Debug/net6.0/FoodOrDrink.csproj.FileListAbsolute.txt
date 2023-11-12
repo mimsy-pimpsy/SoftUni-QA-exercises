@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.exe
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.deps.json
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.dll
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\bin\Debug\net6.0\FoodOrDrink.pdb
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.dll
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\refint\FoodOrDrink.dll
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.pdb
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\FoodOrDrink.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\FoodOrDrink\obj\Debug\net6.0\ref\FoodOrDrink.dll

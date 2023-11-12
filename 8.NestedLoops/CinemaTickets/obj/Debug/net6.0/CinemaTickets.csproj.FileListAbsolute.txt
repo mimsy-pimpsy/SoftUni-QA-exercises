@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\bin\Debug\net6.0\CinemaTickets.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\bin\Debug\net6.0\CinemaTickets.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\bin\Debug\net6.0\CinemaTickets.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\bin\Debug\net6.0\CinemaTickets.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\bin\Debug\net6.0\CinemaTickets.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\refint\CinemaTickets.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\CinemaTickets.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\CinemaTickets\obj\Debug\net6.0\ref\CinemaTickets.dll

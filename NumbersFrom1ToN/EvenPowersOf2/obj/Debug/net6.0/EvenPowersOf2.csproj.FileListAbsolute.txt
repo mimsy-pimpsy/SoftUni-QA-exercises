@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.exe
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.deps.json
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.pdb
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\refint\EvenPowersOf2.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.pdb
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\EvenPowersOf2\obj\Debug\net6.0\ref\EvenPowersOf2.dll

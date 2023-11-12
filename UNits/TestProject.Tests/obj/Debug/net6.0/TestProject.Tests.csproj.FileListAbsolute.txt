@@ -1,0 +1,6 @@
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\obj\Debug\net6.0\TestProject.Tests.csproj.AssemblyReference.cache
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\obj\Debug\net6.0\TestProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\obj\Debug\net6.0\TestProject.Tests.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\obj\Debug\net6.0\TestProject.Tests.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\UNits\TestProject.Tests\obj\Debug\net6.0\TestProject.Tests.csproj.CoreCompileInputs.cache

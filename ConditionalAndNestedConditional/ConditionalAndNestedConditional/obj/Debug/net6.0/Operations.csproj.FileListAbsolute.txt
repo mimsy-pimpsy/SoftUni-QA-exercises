@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\bin\Debug\net6.0\Operations.exe
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\bin\Debug\net6.0\Operations.deps.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\bin\Debug\net6.0\Operations.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\bin\Debug\net6.0\Operations.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\bin\Debug\net6.0\Operations.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\refint\Operations.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\Operations.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\ConditionalAndNestedConditional\obj\Debug\net6.0\ref\Operations.dll

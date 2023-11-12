@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.exe
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.deps.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\bin\Debug\net6.0\Even and Odd Subtraction.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\refint\Even and Odd Subtraction.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\Even and Odd Subtraction.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Even and Odd Subtraction\obj\Debug\net6.0\ref\Even and Odd Subtraction.dll

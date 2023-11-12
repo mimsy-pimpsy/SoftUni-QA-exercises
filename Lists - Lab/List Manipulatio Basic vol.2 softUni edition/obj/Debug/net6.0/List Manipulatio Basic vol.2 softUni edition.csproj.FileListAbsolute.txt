@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\bin\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.exe
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\bin\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.deps.json
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\bin\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\bin\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\bin\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.pdb
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\refint\List Manipulatio Basic vol.2 softUni edition.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.pdb
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\List Manipulatio Basic vol.2 softUni edition.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List Manipulatio Basic vol.2 softUni edition\obj\Debug\net6.0\ref\List Manipulatio Basic vol.2 softUni edition.dll

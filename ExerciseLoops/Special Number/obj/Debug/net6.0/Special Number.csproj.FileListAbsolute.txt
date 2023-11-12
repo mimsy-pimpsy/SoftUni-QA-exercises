@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\bin\Debug\net6.0\Special Number.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\bin\Debug\net6.0\Special Number.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\bin\Debug\net6.0\Special Number.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\bin\Debug\net6.0\Special Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\bin\Debug\net6.0\Special Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\refint\Special Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\Special Number.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Number\obj\Debug\net6.0\ref\Special Number.dll

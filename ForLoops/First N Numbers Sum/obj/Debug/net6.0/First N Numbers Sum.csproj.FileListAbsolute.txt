@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\bin\Debug\net6.0\First N Numbers Sum.exe
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\bin\Debug\net6.0\First N Numbers Sum.deps.json
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\bin\Debug\net6.0\First N Numbers Sum.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\bin\Debug\net6.0\First N Numbers Sum.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\bin\Debug\net6.0\First N Numbers Sum.pdb
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\refint\First N Numbers Sum.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.pdb
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\First N Numbers Sum.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\First N Numbers Sum\obj\Debug\net6.0\ref\First N Numbers Sum.dll

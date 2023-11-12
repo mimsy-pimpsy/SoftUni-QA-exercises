@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\bin\Debug\net6.0\Even Powers of.exe
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\bin\Debug\net6.0\Even Powers of.deps.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\bin\Debug\net6.0\Even Powers of.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\bin\Debug\net6.0\Even Powers of.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\bin\Debug\net6.0\Even Powers of.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\refint\Even Powers of.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\Even Powers of.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Even Powers of\obj\Debug\net6.0\ref\Even Powers of.dll

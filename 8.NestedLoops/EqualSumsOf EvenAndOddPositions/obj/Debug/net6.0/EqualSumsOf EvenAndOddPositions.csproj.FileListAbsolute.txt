@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\bin\Debug\net6.0\EqualSumsOf EvenAndOddPositions.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\bin\Debug\net6.0\EqualSumsOf EvenAndOddPositions.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\bin\Debug\net6.0\EqualSumsOf EvenAndOddPositions.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\bin\Debug\net6.0\EqualSumsOf EvenAndOddPositions.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\bin\Debug\net6.0\EqualSumsOf EvenAndOddPositions.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\refint\EqualSumsOf EvenAndOddPositions.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\EqualSumsOf EvenAndOddPositions.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\EqualSumsOf EvenAndOddPositions\obj\Debug\net6.0\ref\EqualSumsOf EvenAndOddPositions.dll

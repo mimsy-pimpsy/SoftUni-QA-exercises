@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\bin\Debug\net6.0\Special Bonus.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\bin\Debug\net6.0\Special Bonus.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\bin\Debug\net6.0\Special Bonus.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\bin\Debug\net6.0\Special Bonus.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\bin\Debug\net6.0\Special Bonus.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\refint\Special Bonus.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\Special Bonus.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Special Bonus\obj\Debug\net6.0\ref\Special Bonus.dll

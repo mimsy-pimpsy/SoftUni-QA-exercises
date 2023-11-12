@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\bin\Debug\net6.0\CheckPrimeNumber.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\refint\CheckPrimeNumber.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\CheckPrimeNumber.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\CheckPrimeNumber\obj\Debug\net6.0\ref\CheckPrimeNumber.dll

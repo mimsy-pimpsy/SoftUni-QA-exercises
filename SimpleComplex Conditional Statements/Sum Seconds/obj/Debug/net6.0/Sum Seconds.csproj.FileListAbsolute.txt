@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\bin\Debug\net6.0\Sum Seconds.exe
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\bin\Debug\net6.0\Sum Seconds.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\bin\Debug\net6.0\Sum Seconds.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\bin\Debug\net6.0\Sum Seconds.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\bin\Debug\net6.0\Sum Seconds.pdb
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\refint\Sum Seconds.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.pdb
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\Sum Seconds.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\Sum Seconds\obj\Debug\net6.0\ref\Sum Seconds.dll

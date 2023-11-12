@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\bin\Debug\net6.0\HotelRoomm.exe
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\bin\Debug\net6.0\HotelRoomm.deps.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\bin\Debug\net6.0\HotelRoomm.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\bin\Debug\net6.0\HotelRoomm.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\bin\Debug\net6.0\HotelRoomm.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\refint\HotelRoomm.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\HotelRoomm.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\HotelRoomm\obj\Debug\net6.0\ref\HotelRoomm.dll

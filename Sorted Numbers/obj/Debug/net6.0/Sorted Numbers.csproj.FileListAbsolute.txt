@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\bin\Debug\net6.0\Sorted Numbers.exe
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\bin\Debug\net6.0\Sorted Numbers.deps.json
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\bin\Debug\net6.0\Sorted Numbers.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\bin\Debug\net6.0\Sorted Numbers.dll
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\bin\Debug\net6.0\Sorted Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.dll
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\refint\Sorted Numbers.dll
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\Sorted Numbers.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Sorted Numbers\obj\Debug\net6.0\ref\Sorted Numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\bin\Debug\net6.0\pastebin.exe
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\bin\Debug\net6.0\pastebin.deps.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\bin\Debug\net6.0\pastebin.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\bin\Debug\net6.0\pastebin.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\bin\Debug\net6.0\pastebin.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\refint\pastebin.dll
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.pdb
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\pastebin.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ConditionalAndNestedConditional\pastebin\obj\Debug\net6.0\ref\pastebin.dll

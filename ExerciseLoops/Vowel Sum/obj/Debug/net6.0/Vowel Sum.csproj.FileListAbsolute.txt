@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\bin\Debug\net6.0\Vowel Sum.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\bin\Debug\net6.0\Vowel Sum.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\bin\Debug\net6.0\Vowel Sum.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\bin\Debug\net6.0\Vowel Sum.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\bin\Debug\net6.0\Vowel Sum.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\refint\Vowel Sum.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\Vowel Sum.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Vowel Sum\obj\Debug\net6.0\ref\Vowel Sum.dll

@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.exe
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.deps.json
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\bin\Debug\net6.0\List of Products.pdb
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\refint\List of Products.dll
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.pdb
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\List of Products.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Lists - Lab\List of Products\obj\Debug\net6.0\ref\List of Products.dll

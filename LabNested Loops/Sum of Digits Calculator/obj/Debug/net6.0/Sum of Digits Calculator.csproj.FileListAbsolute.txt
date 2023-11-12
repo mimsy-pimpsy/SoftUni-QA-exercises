@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.exe
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.deps.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\refint\Sum of Digits Calculator.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Sum of Digits Calculator\obj\Debug\net6.0\ref\Sum of Digits Calculator.dll

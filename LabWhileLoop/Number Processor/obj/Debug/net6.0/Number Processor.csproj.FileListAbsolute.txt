@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\bin\Debug\net6.0\Number Processor.exe
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\bin\Debug\net6.0\Number Processor.deps.json
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\bin\Debug\net6.0\Number Processor.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\bin\Debug\net6.0\Number Processor.dll
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\bin\Debug\net6.0\Number Processor.pdb
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.dll
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\refint\Number Processor.dll
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.pdb
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\Number Processor.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\LabWhileLoop\Number Processor\obj\Debug\net6.0\ref\Number Processor.dll

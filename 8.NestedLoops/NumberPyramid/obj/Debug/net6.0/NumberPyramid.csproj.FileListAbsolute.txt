@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\bin\Debug\net6.0\NumberPyramid.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\bin\Debug\net6.0\NumberPyramid.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\bin\Debug\net6.0\NumberPyramid.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\bin\Debug\net6.0\NumberPyramid.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\bin\Debug\net6.0\NumberPyramid.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\refint\NumberPyramid.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\NumberPyramid.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\NumberPyramid\obj\Debug\net6.0\ref\NumberPyramid.dll

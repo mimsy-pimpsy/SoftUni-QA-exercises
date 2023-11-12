@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\bin\Debug\net6.0\Match Date.exe
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\bin\Debug\net6.0\Match Date.deps.json
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\bin\Debug\net6.0\Match Date.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\bin\Debug\net6.0\Match Date.dll
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\bin\Debug\net6.0\Match Date.pdb
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.dll
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\refint\Match Date.dll
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.pdb
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\Match Date.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Regex in C#\Match Date\obj\Debug\net6.0\ref\Match Date.dll

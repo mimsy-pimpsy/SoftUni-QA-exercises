@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\bin\Debug\net6.0\VacationSavings.exe
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\bin\Debug\net6.0\VacationSavings.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\bin\Debug\net6.0\VacationSavings.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\bin\Debug\net6.0\VacationSavings.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\bin\Debug\net6.0\VacationSavings.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\refint\VacationSavings.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\VacationSavings.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\VacationSavings\obj\Debug\net6.0\ref\VacationSavings.dll

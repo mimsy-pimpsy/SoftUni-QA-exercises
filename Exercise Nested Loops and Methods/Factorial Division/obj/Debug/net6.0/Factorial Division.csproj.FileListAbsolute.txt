@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\bin\Debug\net6.0\Factorial Division.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\refint\Factorial Division.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\Factorial Division.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Factorial Division\obj\Debug\net6.0\ref\Factorial Division.dll

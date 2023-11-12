@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Freezingweather.exe
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Freezingweather.deps.json
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Freezingweather.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Freezingweather.dll
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Freezingweather.pdb
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.dll
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\refint\Freezingweather.dll
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.pdb
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Freezingweather.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\ref\Freezingweather.dll

@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\bin\Debug\net6.0\Exam Countdown.exe
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\bin\Debug\net6.0\Exam Countdown.deps.json
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\bin\Debug\net6.0\Exam Countdown.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\bin\Debug\net6.0\Exam Countdown.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\bin\Debug\net6.0\Exam Countdown.pdb
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\refint\Exam Countdown.dll
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.pdb
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\Exam Countdown.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ForLoops\Exam Countdown\obj\Debug\net6.0\ref\Exam Countdown.dll

@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\bin\Debug\net6.0\Unique PIN Code.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\bin\Debug\net6.0\Unique PIN Code.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\bin\Debug\net6.0\Unique PIN Code.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\bin\Debug\net6.0\Unique PIN Code.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\bin\Debug\net6.0\Unique PIN Code.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\refint\Unique PIN Code.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\Unique PIN Code.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Unique PIN Code\obj\Debug\net6.0\ref\Unique PIN Code.dll

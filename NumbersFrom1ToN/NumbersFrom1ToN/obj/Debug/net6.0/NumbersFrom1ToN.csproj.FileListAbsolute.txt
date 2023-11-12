@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\net6.0\NumbersFrom1ToN.exe
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\net6.0\NumbersFrom1ToN.deps.json
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\net6.0\NumbersFrom1ToN.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\net6.0\NumbersFrom1ToN.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\bin\Debug\net6.0\NumbersFrom1ToN.pdb
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\refint\NumbersFrom1ToN.dll
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.pdb
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\NumbersFrom1ToN.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\NumbersFrom1ToN\NumbersFrom1ToN\obj\Debug\net6.0\ref\NumbersFrom1ToN.dll

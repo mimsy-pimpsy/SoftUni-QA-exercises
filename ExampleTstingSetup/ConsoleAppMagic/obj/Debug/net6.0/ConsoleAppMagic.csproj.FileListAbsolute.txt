@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.exe
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.deps.json
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.dll
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\bin\Debug\net6.0\ConsoleAppMagic.pdb
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.dll
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\refint\ConsoleAppMagic.dll
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.pdb
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ConsoleAppMagic.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExampleTstingSetup\ConsoleAppMagic\obj\Debug\net6.0\ref\ConsoleAppMagic.dll

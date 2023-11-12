@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.exe
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\refint\TheOldLibrary.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\TheOldLibrary\obj\Debug\net6.0\ref\TheOldLibrary.dll

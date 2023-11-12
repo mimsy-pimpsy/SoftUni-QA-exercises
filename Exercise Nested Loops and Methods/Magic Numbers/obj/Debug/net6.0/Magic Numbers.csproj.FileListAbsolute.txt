@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\bin\Debug\net6.0\Magic Numbers.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\bin\Debug\net6.0\Magic Numbers.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\bin\Debug\net6.0\Magic Numbers.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\bin\Debug\net6.0\Magic Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\bin\Debug\net6.0\Magic Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\refint\Magic Numbers.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\Magic Numbers.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Magic Numbers\obj\Debug\net6.0\ref\Magic Numbers.dll

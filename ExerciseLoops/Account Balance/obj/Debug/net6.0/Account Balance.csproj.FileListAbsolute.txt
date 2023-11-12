@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\bin\Debug\net6.0\Account Balance.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\bin\Debug\net6.0\Account Balance.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\bin\Debug\net6.0\Account Balance.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\bin\Debug\net6.0\Account Balance.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\bin\Debug\net6.0\Account Balance.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\refint\Account Balance.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\Account Balance.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Account Balance\obj\Debug\net6.0\ref\Account Balance.dll

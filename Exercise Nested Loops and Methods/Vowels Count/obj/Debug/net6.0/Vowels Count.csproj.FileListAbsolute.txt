@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.exe
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.deps.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\bin\Debug\net6.0\Vowels Count.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\refint\Vowels Count.dll
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.pdb
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\Vowels Count.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Exercise Nested Loops and Methods\Vowels Count\obj\Debug\net6.0\ref\Vowels Count.dll

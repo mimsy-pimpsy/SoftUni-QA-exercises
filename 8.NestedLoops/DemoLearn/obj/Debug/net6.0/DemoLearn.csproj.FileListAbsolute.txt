@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\bin\Debug\net6.0\DemoLearn.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\bin\Debug\net6.0\DemoLearn.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\bin\Debug\net6.0\DemoLearn.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\bin\Debug\net6.0\DemoLearn.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\bin\Debug\net6.0\DemoLearn.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\refint\DemoLearn.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\DemoLearn.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\DemoLearn\obj\Debug\net6.0\ref\DemoLearn.dll

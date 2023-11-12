@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Methods\orders\bin\Debug\net6.0\orders.exe
+C:\Users\maria.blazheva\source\repos\Methods\orders\bin\Debug\net6.0\orders.deps.json
+C:\Users\maria.blazheva\source\repos\Methods\orders\bin\Debug\net6.0\orders.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Methods\orders\bin\Debug\net6.0\orders.dll
+C:\Users\maria.blazheva\source\repos\Methods\orders\bin\Debug\net6.0\orders.pdb
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.dll
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\refint\orders.dll
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.pdb
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\orders.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Methods\orders\obj\Debug\net6.0\ref\orders.dll

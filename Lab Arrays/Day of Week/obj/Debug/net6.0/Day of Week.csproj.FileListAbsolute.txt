@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\bin\Debug\net6.0\Day of Week.exe
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\bin\Debug\net6.0\Day of Week.deps.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\bin\Debug\net6.0\Day of Week.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\bin\Debug\net6.0\Day of Week.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\bin\Debug\net6.0\Day of Week.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\refint\Day of Week.dll
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.pdb
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\Day of Week.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Lab Arrays\Day of Week\obj\Debug\net6.0\ref\Day of Week.dll

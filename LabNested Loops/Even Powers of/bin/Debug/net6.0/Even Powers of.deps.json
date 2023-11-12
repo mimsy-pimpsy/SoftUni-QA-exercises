@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Even Powers of/1.0.0": {
+        "runtime": {
+          "Even Powers of.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Even Powers of/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

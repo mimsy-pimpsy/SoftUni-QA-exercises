@@ -1,0 +1,4 @@
+C:\Users\maria.blazheva\source\repos\UNits\TestApp\obj\Debug\net6.0\AdjacentEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\UNits\TestApp\obj\Debug\net6.0\AdjacentEqual.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\UNits\TestApp\obj\Debug\net6.0\AdjacentEqual.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\UNits\TestApp\obj\Debug\net6.0\AdjacentEqual.csproj.CoreCompileInputs.cache

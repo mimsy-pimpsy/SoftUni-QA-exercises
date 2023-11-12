@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.exe
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.deps.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\refint\SumOfPrimeAndNonPrimeNumbers.dll
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.pdb
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNonPrimeNumbers.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\8.NestedLoops\SumOfPrimeAndNonPrimeNumbers\obj\Debug\net6.0\ref\SumOfPrimeAndNonPrimeNumbers.dll

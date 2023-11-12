@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.exe
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.deps.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\refint\Triangle of Stars.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Triangle of Stars\obj\Debug\net6.0\ref\Triangle of Stars.dll

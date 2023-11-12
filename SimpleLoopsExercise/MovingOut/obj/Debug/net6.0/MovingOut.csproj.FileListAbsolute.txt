@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\bin\Debug\net6.0\MovingOut.exe
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\bin\Debug\net6.0\MovingOut.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\bin\Debug\net6.0\MovingOut.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\bin\Debug\net6.0\MovingOut.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\bin\Debug\net6.0\MovingOut.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\refint\MovingOut.dll
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.pdb
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\MovingOut.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleLoopsExercise\MovingOut\obj\Debug\net6.0\ref\MovingOut.dll

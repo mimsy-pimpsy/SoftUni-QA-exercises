@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\bin\Debug\net6.0\Biggest Number.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\bin\Debug\net6.0\Biggest Number.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\bin\Debug\net6.0\Biggest Number.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\bin\Debug\net6.0\Biggest Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\bin\Debug\net6.0\Biggest Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\refint\Biggest Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\Biggest Number.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Biggest Number\obj\Debug\net6.0\ref\Biggest Number.dll

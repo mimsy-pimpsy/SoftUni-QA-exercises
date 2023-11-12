@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\bin\Debug\net6.0\Reverse Strings.exe
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\bin\Debug\net6.0\Reverse Strings.deps.json
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\bin\Debug\net6.0\Reverse Strings.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\bin\Debug\net6.0\Reverse Strings.dll
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\bin\Debug\net6.0\Reverse Strings.pdb
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.dll
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\refint\Reverse Strings.dll
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.pdb
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\Reverse Strings.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\strings06112023\Reverse Strings\obj\Debug\net6.0\ref\Reverse Strings.dll

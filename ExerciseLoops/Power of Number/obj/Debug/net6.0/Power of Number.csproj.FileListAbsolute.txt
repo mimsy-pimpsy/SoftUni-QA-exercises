@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\bin\Debug\net6.0\Power of Number.exe
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\bin\Debug\net6.0\Power of Number.deps.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\bin\Debug\net6.0\Power of Number.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\bin\Debug\net6.0\Power of Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\bin\Debug\net6.0\Power of Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\refint\Power of Number.dll
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.pdb
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\Power of Number.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\ExerciseLoops\Power of Number\obj\Debug\net6.0\ref\Power of Number.dll

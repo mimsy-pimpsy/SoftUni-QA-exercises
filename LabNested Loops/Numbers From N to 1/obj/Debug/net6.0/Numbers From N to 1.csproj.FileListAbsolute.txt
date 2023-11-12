@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.exe
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.deps.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\refint\Numbers From N to 1.dll
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.pdb
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\LabNested Loops\Numbers From N to 1\obj\Debug\net6.0\ref\Numbers From N to 1.dll

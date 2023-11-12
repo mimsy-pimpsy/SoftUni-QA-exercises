@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\bin\Debug\net6.0\ProductOfThreeNumbers2ndVar.exe
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\bin\Debug\net6.0\ProductOfThreeNumbers2ndVar.deps.json
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\bin\Debug\net6.0\ProductOfThreeNumbers2ndVar.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\bin\Debug\net6.0\ProductOfThreeNumbers2ndVar.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\bin\Debug\net6.0\ProductOfThreeNumbers2ndVar.pdb
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\refint\ProductOfThreeNumbers2ndVar.dll
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.pdb
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ProductOfThreeNumbers2ndVar.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\SimpleComplex Conditional Statements\ProductOfThreeNumbers2ndVar\obj\Debug\net6.0\ref\ProductOfThreeNumbers2ndVar.dll
