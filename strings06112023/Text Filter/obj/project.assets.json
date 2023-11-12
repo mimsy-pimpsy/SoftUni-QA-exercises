@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maria.blazheva\\.nuget\\packages\\": {}
+    "C:\\Users\\MimsyPimsy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria.blazheva\\source\\repos\\strings06112023\\Text Filter\\Text Filter.csproj",
+      "projectUniqueName": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\strings06112023\\Text Filter\\Text Filter.csproj",
       "projectName": "Text Filter",
-      "projectPath": "C:\\Users\\maria.blazheva\\source\\repos\\strings06112023\\Text Filter\\Text Filter.csproj",
-      "packagesPath": "C:\\Users\\maria.blazheva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria.blazheva\\source\\repos\\strings06112023\\Text Filter\\obj\\",
+      "projectPath": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\strings06112023\\Text Filter\\Text Filter.csproj",
+      "packagesPath": "C:\\Users\\MimsyPimsy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\strings06112023\\Text Filter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maria.blazheva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MimsyPimsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
