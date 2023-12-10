@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Miners Task demo/1.0.0": {
+        "runtime": {
+          "Miners Task demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Miners Task demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

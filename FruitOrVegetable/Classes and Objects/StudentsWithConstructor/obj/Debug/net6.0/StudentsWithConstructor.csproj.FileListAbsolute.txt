@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\bin\Debug\net6.0\StudentsWithConstructor.exe
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\bin\Debug\net6.0\StudentsWithConstructor.deps.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\bin\Debug\net6.0\StudentsWithConstructor.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\bin\Debug\net6.0\StudentsWithConstructor.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\bin\Debug\net6.0\StudentsWithConstructor.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\refint\StudentsWithConstructor.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\StudentsWithConstructor.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\StudentsWithConstructor\obj\Debug\net6.0\ref\StudentsWithConstructor.dll

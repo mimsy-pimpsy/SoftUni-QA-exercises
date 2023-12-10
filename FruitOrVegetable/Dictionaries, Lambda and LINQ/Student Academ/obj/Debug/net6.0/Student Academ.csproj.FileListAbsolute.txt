@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\bin\Debug\net6.0\Student Academ.exe
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\bin\Debug\net6.0\Student Academ.deps.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\bin\Debug\net6.0\Student Academ.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\bin\Debug\net6.0\Student Academ.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\bin\Debug\net6.0\Student Academ.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\refint\Student Academ.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\Student Academ.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Student Academ\obj\Debug\net6.0\ref\Student Academ.dll

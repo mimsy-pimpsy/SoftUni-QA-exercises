@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\bin\Debug\net6.0\Word Synonyms.exe
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\bin\Debug\net6.0\Word Synonyms.deps.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\bin\Debug\net6.0\Word Synonyms.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\bin\Debug\net6.0\Word Synonyms.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\bin\Debug\net6.0\Word Synonyms.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\refint\Word Synonyms.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\Word Synonyms.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Word Synonyms\obj\Debug\net6.0\ref\Word Synonyms.dll

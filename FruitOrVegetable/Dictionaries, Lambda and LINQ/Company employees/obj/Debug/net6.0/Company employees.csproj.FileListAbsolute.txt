@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\bin\Debug\net6.0\Company employees.exe
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\bin\Debug\net6.0\Company employees.deps.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\bin\Debug\net6.0\Company employees.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\bin\Debug\net6.0\Company employees.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\bin\Debug\net6.0\Company employees.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\refint\Company employees.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\Company employees.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Company employees\obj\Debug\net6.0\ref\Company employees.dll

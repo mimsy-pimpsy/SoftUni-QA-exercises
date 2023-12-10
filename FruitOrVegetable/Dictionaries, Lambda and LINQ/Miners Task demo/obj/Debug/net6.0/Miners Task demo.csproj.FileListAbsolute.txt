@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\bin\Debug\net6.0\Miners Task demo.exe
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\bin\Debug\net6.0\Miners Task demo.deps.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\bin\Debug\net6.0\Miners Task demo.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\bin\Debug\net6.0\Miners Task demo.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\bin\Debug\net6.0\Miners Task demo.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\refint\Miners Task demo.dll
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.pdb
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\Miners Task demo.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Dictionaries, Lambda and LINQ\Miners Task demo\obj\Debug\net6.0\ref\Miners Task demo.dll

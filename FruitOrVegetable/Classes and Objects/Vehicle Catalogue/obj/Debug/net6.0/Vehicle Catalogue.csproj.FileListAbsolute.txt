@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.exe
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.deps.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\refint\Vehicle Catalogue.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Vehicle Catalogue\obj\Debug\net6.0\ref\Vehicle Catalogue.dll

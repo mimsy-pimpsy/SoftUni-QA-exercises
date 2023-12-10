@@ -1,0 +1,14 @@
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\bin\Debug\net6.0\Store Boxes.exe
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\bin\Debug\net6.0\Store Boxes.deps.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\bin\Debug\net6.0\Store Boxes.runtimeconfig.json
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\bin\Debug\net6.0\Store Boxes.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\bin\Debug\net6.0\Store Boxes.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.AssemblyInfo.cs
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\refint\Store Boxes.dll
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.pdb
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\Store Boxes.genruntimeconfig.cache
+C:\Users\maria.blazheva\source\repos\Classes and Objects\Store Boxes\obj\Debug\net6.0\ref\Store Boxes.dll
