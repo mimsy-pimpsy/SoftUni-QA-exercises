@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria.blazheva\\source\\repos\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj": {}
+    "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria.blazheva\\source\\repos\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj": {
+    "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria.blazheva\\source\\repos\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj",
+        "projectUniqueName": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj",
         "projectName": "Teamwork Projects",
-        "projectPath": "C:\\Users\\maria.blazheva\\source\\repos\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj",
-        "packagesPath": "C:\\Users\\maria.blazheva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria.blazheva\\source\\repos\\Exercise Objects and Classes\\Teamwork Projects\\obj\\",
+        "projectPath": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\Exercise Objects and Classes\\Teamwork Projects\\Teamwork Projects.csproj",
+        "packagesPath": "C:\\Users\\MimsyPimsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MimsyPimsy\\Desktop\\p\\SoftUni-QA-exercises\\Exercise Objects and Classes\\Teamwork Projects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maria.blazheva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MimsyPimsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
